@@ -1,0 +1,20 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="informday.ml" resolutions="1x" timestamp="1564340725955">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="48669899" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="f.jpg" crc="3999721078" seo="true" ref="index"/>
+    <file name="m.jpg" crc="3975228486" seo="true" ref="index"/>
+    <file name="grameenphone-1.jpg" crc="251688479" seo="true" ref="index"/>
+    <file name="offer111.jpg" crc="99947296" seo="true" ref="index"/>
+    <file name="capture.jpg" crc="74688377" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="191306835" seo="true" mt="1564340637433" redirect="true"/>
+</manifest>
